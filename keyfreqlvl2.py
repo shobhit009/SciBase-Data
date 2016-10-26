@@ -105,7 +105,7 @@ for journals in path:
 								if key_2 == "kwd":
 									
 									for ele in value_2:
-										#count1 += 1
+										count1 += 1
 										var = ele.lower()
 										#l.append(var)
 										freq(var)
